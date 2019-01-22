@@ -1,0 +1,1 @@
+If we work on an existing open source project, the two I know the most about would be Audacity and Eclipse. I also use atom editor often which is open source. Our team would have to decide what kind of structure to implement, whether it be blessed repo or common.
